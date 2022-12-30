@@ -428,10 +428,10 @@ bimmer_connected==0.10.4
 bizkaibus==0.1.1
 
 # homeassistant.components.bluetooth
-bleak-retry-connector==2.13.0
+bleak-retry-connector==2.8.5
 
 # homeassistant.components.bluetooth
-bleak==0.19.2
+bleak==0.19.5
 
 # homeassistant.components.blebox
 blebox_uniapi==2.1.3
@@ -1889,6 +1889,7 @@ pysabnzbd==1.1.1
 pysaj==0.0.16
 
 # homeassistant.components.sony_projector
+# homeassistant.components.sony_projector_extended
 pysdcp==1
 
 # homeassistant.components.sensibo
