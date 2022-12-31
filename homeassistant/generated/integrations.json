@@ -5061,6 +5061,12 @@
         }
       }
     },
+    "sony_projector_extended": {
+      "name": "Sony Projector",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "soundtouch": {
       "name": "Bose SoundTouch",
       "integration_type": "hub",
